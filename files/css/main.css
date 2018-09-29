@@ -90,13 +90,13 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-    color: #0087cc;
+    color: #95E06C;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-    color: #39b54a;
+    color: #01FF70;
 }
 
 a:hover, a:active {
